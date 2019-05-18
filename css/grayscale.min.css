@@ -38,6 +38,7 @@
  					.projects-section .project-text{padding:5rem}
  					.projects-section .project-text hr{border-color:#64a19d;border-width:.25rem;width:30%}} 
  					.team-member{margin-bottom:50px;text-align:center} 
+					.experience-section {padding:5rem ;padding-top:20 ;background:-webkit-gradient(linear,left top,left bottom,from(rgba(22,22,22,.1)),color-stop(75%,rgba(22,22,22,.5)),to(#161616)),url(../img/bg-signup.jpg);background:linear-gradient(to bottom,rgba(22,22,22,.1) 0,rgba(22,22,22,.5) 75%,#161616 100%),url(../img/bg-masterhead3.jpg);background-position:center;background-repeat:no-repeat;background-attachment:scroll;background-size:cover}
  					.contact-section{padding:5rem ;padding-top:20 ;background:-webkit-gradient(linear,left top,left bottom,from(rgba(22,22,22,.1)),color-stop(75%,rgba(22,22,22,.5)),to(#161616)),url(../img/bg-signup.jpg);background:linear-gradient(to bottom,rgba(22,22,22,.1) 0,rgba(22,22,22,.5) 75%,#161616 100%),url(../img/bg-signup.jpg);background-position:center;background-repeat:no-repeat;background-attachment:scroll;background-size:cover}
  					.contact-section .card{padding-top:20 ;border:0;border-bottom:.25rem solid #64a19d}
  					.contact-section .card h4{font-size:.8rem;font-family:'Varela Round';text-transform:uppercase;letter-spacing:.15rem}
